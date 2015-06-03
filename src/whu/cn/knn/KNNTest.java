@@ -1,4 +1,5 @@
 package whu.cn.knn;
+//new
 
 import java.util.Arrays;  
 //import java.util.IdentityHashMap;  
